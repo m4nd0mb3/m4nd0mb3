@@ -1,17 +1,19 @@
-<!-- Seu Nome ou Nome do Usuário -->
-# 👋 Olá, Eu sou Jonathan Mandombe!
+<!-- Your Name or Username -->
+# 👋 Hello, I'm Jonathan Mandombe!
 
-<!-- Uma breve descrição sobre você -->
-Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software, aprendizado de máquina e tudo relacionado à programação.
+[🇦🇴 Portuguese Version](README-PT.md)
 
-<!-- Ícones de Redes Sociais e Contato -->
+<!-- A brief description about yourself -->
+I'm a technology enthusiast passionate about software development, machine learning, and everything programming-related.
+
+<!-- Social Media Icons and Contact -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m4nd0mb3)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/seunome](https://twitter.com/JonathanMandom1))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/JonathanMandom1)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jopaulo142@gmail.com)
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 
-<!-- Lista de tecnologias que você trabalha ou tem interesse -->
+<!-- List of technologies you work with or have interest in -->
 - JavaScript / TypeScript
 - Java
 - C
@@ -22,37 +24,37 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software, apre
 - Flask / FastAPI / Django
 - Machine Learning
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
-<!-- Experiência passada ou atual -->
-- Desenvolvedor na ITGEST AO
-- Team Leader na GSAPlatform
+<!-- Past or current experience -->
+- Developer at ITGEST AO
+- Team Leader at GSAPlatform
 
-## 🌱 Atualmente Estou Aprendendo
+## 🌱 Currently Learning
 
-<!-- Tecnologias ou tópicos que você está estudando atualmente -->
-- Aprendizado de Máquina com Scikit-Learn e não só...
-- Desenvolvimento de Aplicativos Móveis com Flutter
-- Analise e Ciência de Dados
+<!-- Technologies or topics you are currently studying -->
+- Machine Learning with Scikit-Learn and beyond...
+- Mobile App Development with Flutter
+- Data Analysis and Science
 
-## 📫 Como Me Encontrar
+## 📫 How to Reach Me
 
-<!-- Informações adicionais de contato ou para se conectar -->
-Você pode me encontrar no LinkedIn ou me enviar um email.
+<!-- Additional contact information or ways to connect -->
+You can find me on LinkedIn or shoot me an email.
 
-## 🎉 Projetos Destacados
+## 🎉 Featured Projects
 
-<!-- Destaque alguns de seus projetos com links e breve descrição -->
+<!-- Highlight some of your projects with links and brief descriptions -->
 - [MCoin](https://github.com/m4nd0mb3/MCoin): Base of the project to create a simple cryptocurrency on Ether ERC20.
-- [Flash Animator](https://github.com/m4nd0mb3/FlashAnimator): Demo animator based on Flsh Animator App Building with Java.
+- [Flash Animator](https://github.com/m4nd0mb3/FlashAnimator): Demo animator based on Flash Animator App Building with Java.
 - [Document Templater](https://github.com/m4nd0mb3/document-templater): Document Templater - Template Based Document Generation Microservice.
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
-<!-- Inclua as estatísticas do seu perfil do GitHub -->
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=m4nd0mb3&show_icons=true&theme=dark)
+<!-- Include your GitHub profile statistics -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m4nd0mb3&show_icons=true&theme=dark)
 
-<!-- Adicione mais informações, badges, gráficos, etc. de acordo com suas preferências -->
+<!-- Add more information, badges, charts, etc. according to your preferences -->
 
 
 <!---
