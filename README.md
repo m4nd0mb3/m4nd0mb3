@@ -22,6 +22,7 @@ I'm a technology enthusiast passionate about software development, machine learn
 - Angular / React
 - Python
 - Flask / FastAPI / Django
+- Solidity / BlockChain
 - Machine Learning
 
 ## 💼 Professional Experience
