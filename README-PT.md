@@ -8,7 +8,7 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software, apre
 
 <!-- Ícones de Redes Sociais e Contato -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m4nd0mb3)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/seunome](https://twitter.com/JonathanMandom1))
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]([https://twitter.com/JonathanMandom1](https://twitter.com/JonathanMandom1))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jopaulo142@gmail.com)
 
 ## 🚀 Tecnologias
@@ -22,6 +22,7 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software, apre
 - Angular / React
 - Python
 - Flask / FastAPI / Django
+- Solidity / BlockChain
 - Machine Learning
 
 ## 💼 Experiência Profissional
