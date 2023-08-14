@@ -1,6 +1,8 @@
 <!-- Seu Nome ou Nome do Usuário -->
 # 👋 Olá, Eu sou Jonathan Mandombe!
 
+[🇺🇸 English Version](README.md)
+
 <!-- Uma breve descrição sobre você -->
 Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software, aprendizado de máquina e tudo relacionado à programação.
 
