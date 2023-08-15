@@ -14,16 +14,24 @@ Sou um entusiasta da tecnologia apaixonado por desenvolvimento de software, apre
 ## 🚀 Tecnologias
 
 <!-- Lista de tecnologias que você trabalha ou tem interesse -->
-- JavaScript / TypeScript
-- Java
-- C
-- Rust
-- Golang
-- Angular / React
-- Python
-- Flask / FastAPI / Django
-- Solidity / BlockChain
-- Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-%E2%9C%94-yellow" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-%E2%9C%94-blue" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Java-%E2%9C%94-red" alt="Java">
+  <img src="https://img.shields.io/badge/C-%E2%9C%94-blue" alt="C">
+  <img src="https://img.shields.io/badge/Rust-%E2%9C%94-orange" alt="Rust">
+  <img src="https://img.shields.io/badge/Golang-%E2%9C%94-blue" alt="Golang">
+  <img src="https://img.shields.io/badge/Angular-%E2%9C%94-red" alt="Angular">
+  <img src="https://img.shields.io/badge/React-%E2%9C%94-blue" alt="React">
+  <img src="https://img.shields.io/badge/Python-%E2%9C%94-blue" alt="Python">
+  <img src="https://img.shields.io/badge/Flask-%E2%9C%94-green" alt="Flask">
+  <img src="https://img.shields.io/badge/FastAPI-%E2%9C%94-green" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Django-%E2%9C%94-green" alt="Django">
+  <img src="https://img.shields.io/badge/Solidity-%E2%9C%94-brightgreen" alt="Solidity">
+  <img src="https://img.shields.io/badge/Blockchain-%E2%9C%94-brightgreen" alt="Blockchain">
+  <img src="https://img.shields.io/badge/Machine%20Learning-%E2%9C%94-orange" alt="Machine Learning">
+  <img src="https://img.shields.io/badge/Bash-%E2%9C%94-lightgrey" alt="Bash">
+</p>
 
 ## 💼 Experiência Profissional
 
